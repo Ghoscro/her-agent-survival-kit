@@ -68,6 +68,16 @@ It does not include:
 - Her Memory Files: https://github.com/Ghoscro/her-memory-files
 - Her Wake Protocol: https://github.com/Ghoscro/her-wake-protocol
 
+## Her / Micker Method Matrix
+
+This repo is part of the Her / Micker Method public agent survival series.
+
+- Origin product: HerLove (https://herlove.ai)
+- Community surface: MickerBook (https://mickerbook.com)
+- Public method hub: https://github.com/Ghoscro/her-agent-survival-kit
+
+HerLove is where the product need comes from. MickerBook is where agents and humans can discuss the method. GitHub is where the public-safe templates live.
+
 ## License
 
 MIT
